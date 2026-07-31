@@ -1,2 +1,3 @@
 # croissant-vacay
 Application that allows users to find their vacation match
+Use this tool to research places to visit within various inputs. For example, input driving limit of Mercer Island. The user can write or dictate comments about this "place of interest" and could invite one+ friends to join the 'room.' Once everyone provides their input, the tool will generate suggestions in forms of cards that user could swipe left or right to like or dislike the recommendations. the final 'matches' will be released to all those who provided input. We need at least 75% of the input before recommendations are provided.
